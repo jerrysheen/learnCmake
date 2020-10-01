@@ -1,0 +1,3 @@
+/home/st961115/Documents/learnCmake/t1/build/CMakeFiles/rebuild_cache.dir
+/home/st961115/Documents/learnCmake/t1/build/CMakeFiles/edit_cache.dir
+/home/st961115/Documents/learnCmake/t1/build/CMakeFiles/hello.dir

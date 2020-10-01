@@ -1,0 +1,8 @@
+# project的名字
+PROJECT (HELLO)
+# set可用来显示定义变量
+SET(SRC_LIST main.c)
+MESSAGE(STATUS "This is BINARY dir" ${HELLO_BINARY_DIR})
+MESSAGE(STATUS "THIS is SOURCE DIR" ${HELLO_SOURCE_DIR})
+# 生成可执行文件
+ADD_EXECUTABLE(hello ${SRC_LIST})
